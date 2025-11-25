@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Chung Deh Yu
 
 #### Your section leader's name
 
-TODO
+Chung Deh Yu
 
 #### Project title
 
-TODO
+
 
 ***
 
@@ -18,12 +18,13 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+
 
 #### What have you not done for your project yet?
 
-TODO
+
 
 #### What problems, if any, have you encountered?
 
-TODO
+
+\
